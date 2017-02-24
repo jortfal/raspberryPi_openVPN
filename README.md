@@ -2,7 +2,7 @@
 OpenVPN server on raspberryPi 3
 
 # Topology of Architecture
-![alt tag](https://raw.github.com/jortfal/raspberryPi_openVPN/master/topology_of_architecture.png)
+![alt tag](https://github.com/jortfal/raspberryPi_openVPN/master/topology_of_architecture.png)
 
 
 # Note: 
